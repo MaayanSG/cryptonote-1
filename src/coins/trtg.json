@@ -1,0 +1,13 @@
+{
+    "algorithm": "Cryptonight-Turtle",
+    "coin": "TRTG",
+    "forkedFrom": "DeroGold",
+    "icon": "https://raw.githubusercontent.com/turtlegold/TurtleGold/master/src/config/icon.ico",
+    "links": {
+        "discord": "https://discord.gg/BZweWZS",
+        "repo": "https://github.com/turtlegold/TurtleGold",
+        "website": "Coming soon"
+    },
+    "name": "coin name - TurtleGold",
+    "startDate": "2019/04/07"
+}
